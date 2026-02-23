@@ -1,5 +1,12 @@
 # agent-resurrection-protocol
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-resurrection-protocol/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-resurrection-protocol/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-resurrection-protocol)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-resurrection-protocol)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-resurrection-protocol)
+
 ## Detailed Description
 
 agent-resurrection-protocol is maintained as an industry-grade software project with production-ready engineering practices.  
